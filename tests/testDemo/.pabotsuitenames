@@ -1,0 +1,9 @@
+datasources:3a40cc33fddc2fa36db3465d78d6b41c90a200fe
+commandlineoptions:97d170e1550eee4afc0af065b78cda302a97674c
+suitesfrom:no-suites-from-option
+file:feaab0a1f7327041db79d2ee8ef618f27b76e74c
+--suite testDemo.testDemo1
+--suite testDemo.testDemo2
+--suite testDemo.testDemo3
+--suite testDemo.testDemo4
+--suite testDemo.testDemo5

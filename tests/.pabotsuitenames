@@ -1,0 +1,10 @@
+datasources:5c774a44ce23fc2b9a9423ddf5356fa9456c91bb
+commandlineoptions:97d170e1550eee4afc0af065b78cda302a97674c
+suitesfrom:no-suites-from-option
+file:a4ac96b067133980f12e10d8ec6ade97f358b09f
+--suite Tests.EndToEndECommerce
+--suite Tests.testDemo.testDemo1
+--suite Tests.testDemo.testDemo2
+--suite Tests.testDemo.testDemo3
+--suite Tests.testDemo.testDemo4
+--suite Tests.testDemo.testDemo5
